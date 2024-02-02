@@ -1,6 +1,4 @@
-Clone the project from github.
-Sign in to the OpenWeatherAPI and generate your API_KEY.
-Copy this key and paste it in the weatherService.js file.
+Clone the project from github.      Sign in to the OpenWeatherAPI and generate your API_KEY.      Copy this key and paste it in the weatherService.js file.
 {
     "cod": 401,
     "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."
